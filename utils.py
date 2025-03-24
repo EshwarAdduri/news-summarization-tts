@@ -3,7 +3,7 @@ from textblob import TextBlob
 from gtts import gTTS
 import os
 
-API_KEY = "9bcbb8a6922c4e88ac0dd8c14ebfcd07"  # Replace with your valid NewsAPI key
+API_KEY = "Your-Api-Key"  # Replace with your valid NewsAPI key
 
 
 # Fetch news articles
